@@ -5,6 +5,5 @@ def square_array(array)
   result = [ ]
   result <<numbers
   end
-  return result 
+  return result
 end
-
