@@ -4,6 +4,6 @@ def square_array(array)
   end
   result = [ ]
   result <<numbers
-  end
+end 
   return result
 end
